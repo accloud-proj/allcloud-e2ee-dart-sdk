@@ -1,0 +1,20 @@
+name: accloud_e2ee
+description: Dart and Flutter client SDK for the Accloud E2EE protocol.
+version: 0.1.0
+repository: https://github.com/accloud-proj/allcloud-e2ee-dart-sdk
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  cryptography: ^2.7.0
+  http: ^1.2.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
+
+topics:
+  - cryptography
+  - e2ee
+  - flutter
